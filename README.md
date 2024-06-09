@@ -29,6 +29,6 @@
 ![PieChart](pictures/piechart2.png)
 <hr>
 
-**Used libraries:**
+**Libraries employed:**
 
 `pandas` `requests` `beautifulsoup` `seaborn` `matplotlib` `plotly` `wordcloud` `nltk` `tqdm`
